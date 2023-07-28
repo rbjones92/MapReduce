@@ -9,19 +9,14 @@ MapReduce csv data to find summary counts of accident data per car
 ## Technologies
 - Python 3.11
 - VS Code
+- HDFS
 
 ## Local Execution
-View Data
-![Alt Text](screenshots/step_0.JPG?raw=true "load data")
+Map Reduce 1
+![Alt Text](screenshots/output_1.jpg?raw=true "map reduce 1")
 
-MAP VIN to make,model,year
-![Alt Text](screenshots/step_1.JPG?raw=true "map 1")
+Map Reduce 2
+![Alt Text](screenshots/output_2.jpg?raw=true "map reduce 2")
 
-REDUCE VIN to make,model,year
-![Alt Text](screenshots/step_2.JPG?raw=true "reduce 1")
-
-MAP Accidents as 1
-![Alt Text](screenshots/step_3.JPG?raw=true "map 2")
-
-REDUCE Sum count of accidents and group by VIN 
-![Alt Text](screenshots/step_4.JPG?raw=true "reduce 2")
+Scripts
+![Alt Text](screenshots/scripts.jpg?raw=true "scripts")
