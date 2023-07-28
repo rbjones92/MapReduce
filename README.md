@@ -16,7 +16,7 @@ Map Reduce 1
 ![Alt Text](screenshots/output_1.jpg?raw=true "map reduce 1")
 
 Map Reduce 2
-![Alt Text](screenshots/output 2.jpg?raw=true "map reduce 2")
+![Alt Text](screenshots/output2.jpg?raw=true "map reduce 2")
 
 Scripts
 ![Alt Text](screenshots/scripts.jpg?raw=true "scripts")
