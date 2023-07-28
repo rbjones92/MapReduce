@@ -13,8 +13,8 @@ MapReduce csv data to find summary counts of accident data per car
 
 ## Local Execution
 Map Reduce 1
-![Alt Text](screenshots/output_1.JPG?raw=true "map 1")
+![Alt Text](screenshots/output_1.jps?raw=true "map 1")
 
 Map Reduce 2
-![Alt Text](screenshots/output_2.JPG?raw=true "reduce 1")
+![Alt Text](screenshots/output_2.Jjpg?raw=true "reduce 1")
 
